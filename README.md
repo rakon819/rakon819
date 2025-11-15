@@ -9,7 +9,7 @@ I make simple games, bots, and websites—I post my projects here.
 - Git, GitHub
 
 ## 📂 Projects
-- **SiteDemo** — simple website. 🔗 https://willowy-melba-a8d5bd.netlify.app
+- **SiteDemo** — simple website. 🔗 https://fanciful-figolla-cd2ae3.netlify.app/
 
 ## 📫 Contacts
 - Telegram: @rakon_ll819
